@@ -11,3 +11,5 @@ sqlparse==0.4.1
 urllib3==1.26.2
 wincertstore==0.2
 yarg==0.1.9
+
+graphene~=2.1.8
