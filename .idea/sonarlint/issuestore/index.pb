@@ -12,3 +12,25 @@ A
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+D
+rankingSite/views.py,2\5\25bf647596b67f22a2aa9c5737870c4504d4f32d
+D
+rankingSite/tests.py,5\e\5e64a1eab13973f678ff6a139637e263816c6cea
+E
+rankingSite/models.py,d\e\de347b1c35d6e1ca660a5dfc2f2346e0cef670b4
+@
+requirements.yml,d\e\de34add8bc2fd403f10f80fba2eb2d211c9ee0d1
+C
+djangoSnake/urls.py,c\0\c08495dec904765a2e7d149aeb22ffa10dac3973
+C
+djangoSnake/asgi.py,b\d\bda4f5eff6ea46e100b3099d5b8c323609434b04
+G
+djangoSnake/__init__.py,c\0\c0a77a33d60e278eeb57ed5068d2fbe7cc3ad690
+G
+rankingSite/__init__.py,7\c\7c050c550f8c60bacbe5e081e28aa091f0f46963
+C
+rankingSite/apps.py,8\a\8aa5a8cd16f05fa1e49de3499c3f137367aa288d
+D
+rankingSite/admin.py,f\e\fe3eed431f2daebe1a7a06acfc368fc0aae1cc3a
+E
+rankingSite/schema.py,7\9\79c9b70ec720a1e6b643b1f1eba05622060c59d0
